@@ -18,7 +18,7 @@ def main():
         if totalSticks > 0: print(f"There are {totalSticks} sticks left")
         turn += 1
     print(f"Player {player} lost the game!")
-    print("The end!!!!")
+
 
 
 if __name__=="__main__":
