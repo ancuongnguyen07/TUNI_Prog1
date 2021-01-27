@@ -1,0 +1,7 @@
+987654;Ella Electronicsresearcher;ELT,G,SM112
+123456;Ted Technologystudent;G
+999;Cliff Cleaner;G
+KK-23;Fiona Fired Employee;
+777;Thelma Teacher;TIE,OPET,TE113
+888;Pricilla Professor;TIE,TC114,TC210,TE102
+007;Research Team X;SM112,TE117,X
